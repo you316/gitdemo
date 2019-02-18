@@ -1,9 +1,9 @@
 package com.admin;
 
 public class User {
-    private String name;
-    private String sex;
-    private String age;
+    private String userName;
+    private String userSex;
+    private String userAge;
     private String address;
     private String createtime;
 }
