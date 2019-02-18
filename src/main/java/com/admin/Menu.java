@@ -3,8 +3,8 @@ package com.admin;
 import java.util.Date;
 
 public class Menu {
-    private Integer Id;
-    private String name;
-    private int memo;
+    private Long id;
+    private String menuName;
+    private String menuMemo;
     private Date createtime;
 }
