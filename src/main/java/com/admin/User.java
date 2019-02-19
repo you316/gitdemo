@@ -10,7 +10,9 @@ public class User {
     private String sex;
     private String age;
     private String address;
+    //状态
     private int status;
+    //密码
     private String password;
     //时间
     private Date createtime;
