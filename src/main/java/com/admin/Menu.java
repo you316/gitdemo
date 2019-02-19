@@ -7,5 +7,8 @@ public class Menu {
     private int parentId;
     private String name;
     private String memo;
+    private int sort;
+    private int status;
+    private String ico;
     private Date createtime;
 }
